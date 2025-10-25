@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.Net_Projects\\CSharpBasics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{649015EA-E261-4A93-8944-65C656E1CA52}|CSharpBasics.csproj|c:\\.net_projects\\csharpbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649015EA-E261-4A93-8944-65C656E1CA52}|CSharpBasics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649015EA-E261-4A93-8944-65C656E1CA52}|CSharpBasics.csproj|c:\\.net_projects\\csharpbasics\\coffeeshopswitchgoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649015EA-E261-4A93-8944-65C656E1CA52}|CSharpBasics.csproj|solutionrelative:coffeeshopswitchgoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649015EA-E261-4A93-8944-65C656E1CA52}|CSharpBasics.csproj|c:\\.net_projects\\csharpbasics\\switchexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649015EA-E261-4A93-8944-65C656E1CA52}|CSharpBasics.csproj|solutionrelative:switchexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoffeeShopSwitchGoto.cs",
+              "DocumentMoniker": "C:\\.Net_Projects\\CSharpBasics\\CoffeeShopSwitchGoto.cs",
+              "RelativeDocumentMoniker": "CoffeeShopSwitchGoto.cs",
+              "ToolTip": "C:\\.Net_Projects\\CSharpBasics\\CoffeeShopSwitchGoto.cs",
+              "RelativeToolTip": "CoffeeShopSwitchGoto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T10:21:12.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SwitchExample.cs",
+              "DocumentMoniker": "C:\\.Net_Projects\\CSharpBasics\\SwitchExample.cs",
+              "RelativeDocumentMoniker": "SwitchExample.cs",
+              "ToolTip": "C:\\.Net_Projects\\CSharpBasics\\SwitchExample.cs",
+              "RelativeToolTip": "SwitchExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T09:34:01.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.Net_Projects\\CSharpBasics\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\.Net_Projects\\CSharpBasics\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T09:26:02.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
