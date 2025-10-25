@@ -1,0 +1,28 @@
+# Build folders
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio settings
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+project.lock.json
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# System files
+Thumbs.db
+.DS_Store
