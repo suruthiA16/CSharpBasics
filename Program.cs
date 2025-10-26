@@ -17,6 +17,13 @@
 //wDw.DoWhileBasic();
 
 //Basic for, for each, continue and break examples
-ForAndForeachExample fFE = new ForAndForeachExample();
-fFE.forForEach();
+//ForAndForeachExample fFE = new ForAndForeachExample();
+//fFE.forForEach();
 
+//Type Casting Examples
+//TypeCastingExample tC = new TypeCastingExample();
+//tC.typeCasting();
+
+//Enum example - conversion & print values or names
+EnumConvertionExample enumE = new EnumConvertionExample();
+enumE.EnumExample();
